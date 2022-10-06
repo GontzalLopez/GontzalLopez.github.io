@@ -3,6 +3,9 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
+Published research studies
+======
 <br>
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
@@ -26,6 +29,10 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 <i><b>Lopez-Ruiz G.</b></i>
 <i>PhD Dissertation, University of the Basque Country</i>.
 <br>
+
+
+
+
 
 
 
