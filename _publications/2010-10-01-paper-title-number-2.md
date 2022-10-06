@@ -6,8 +6,9 @@ excerpt: 'The purpose of the present investigation is to explore the feasibility
 date: 07-2021
 venue: 'Energy'
 paperurl: 'https://linkinghub.elsevier.com/retrieve/pii/S0360544221017047'
-citation: '@article{
-
+citation: '
+---
+@article{
 LOPEZRUIZ2021121456,
 title = {Study on the feasibility of the micromix combustion principle in low NOx H2 burners for domestic and industrial boilers: A numerical approach},
 journal = {Energy},
@@ -18,7 +19,7 @@ issn = {0360-5442},
 doi = {https://doi.org/10.1016/j.energy.2021.121456},
 url = {https://www.sciencedirect.com/science/article/pii/S0360544221017047},
 author = {G. Lopez-Ruiz and I. Alava and J.M. Blanco},
-
+---
 }'
 ---
 
