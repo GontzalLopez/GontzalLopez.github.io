@@ -1,11 +1,10 @@
-
 ---
 title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 <br>
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=Dx9aVjgAAAAJ&hl=en)<br>
+For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
 <br>
 <b>[Thermodynamic Analysis of a Regenerative Brayton Cycle Using H2, CH4 and H2/CH4 Blends as Fuel](http://GontzalLopez.github.io/publications/Energies1)</b> <br>
