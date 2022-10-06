@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,7 +29,7 @@ Professional experience
 Skills
 ======
 * Programming
-  * c++,python,matlab
+  * c++, python, matlab
 * CFD tools
   * OpenFOAM, ANSYS Fluent, Pointwise, Salome, ICEM CFD
 * CAD tools
