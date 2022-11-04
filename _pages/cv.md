@@ -20,7 +20,7 @@ Professional experience
 
 
 
-* 2021-Present: Research Technician 
+* 2022-Present: Research Technician 
   * Basque Center for Applied Mathematics - Mathematical Design, Modelling and Simulations
 * 2021-2022: Junior Researcher 
   * Ikerlan Technology Research Centre - Department of Applied Mechanics
