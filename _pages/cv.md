@@ -17,15 +17,18 @@ Education
 
 Professional experience
 ======
-* 2017-2018: Internship 
-  * Ikerlan Technology Research Centre - Department of Applied Mechanics
-* 2018-2021: PhD student 
-  * Ikerlan Technology Research Centre - Department of Applied Mechanics
+
+
+
+* 2021-Present: Research Technician 
+  * Basque Center for Applied Mathematics - Mathematical Design, Modelling and Simulations
 * 2021-2022: Junior Researcher 
   * Ikerlan Technology Research Centre - Department of Applied Mechanics
-* 2021-2022: Research Technician 
-  * Basque Center for Applied Mathematics - Mathematical Design, Modeling and Simulations
- 
+*2018-2021: PhD student 
+  * Ikerlan Technology Research Centre - Department of Applied Mechanics
+* 2017-2018: Internship 
+  * Ikerlan Technology Research Centre - Department of Applied Mechanics
+  
 Skills
 ======
 * Programming
@@ -47,6 +50,11 @@ Congresses, courses and workshops
 * Course on c/c++ programming (100h. CIPSA, professional school of computer science) 2020
 * Unsteady Simulations for Industrial Flows: LES, DES, hybrid LES/RANS and URANS (Chalmers University of Technology) 2020
 * 3rd Spanish HPC Combustion Workshop (Barcelona Supercomputing Center) 2021
+
+Research projects
+======
+* Mathematical Modelling Advisory Service BEAZ 2022
+* Elkartek ERABILH2 2021 
 
 Publications
 ======
