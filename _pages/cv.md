@@ -19,7 +19,7 @@ Professional experience
 ======
 
 
-* 2023-Present: Lecturer professor 
+* 2023-Present: Lecturer & Researcher
   * University of the Basque Country - Faculty of Engineering - Bilbao, Department of Energy Engineering
 * 2022-2023: Research Technician 
   * Basque Center for Applied Mathematics - Mathematical Design, Modelling and Simulations
