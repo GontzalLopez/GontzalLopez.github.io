@@ -9,7 +9,7 @@ Published research studies
 <br>
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
-<b>[Impact of H2/CH4 blends on the flexibility of micromix burners applied to industrial combustion systems](http://GontzalLopez.github.io/publications/Energies1)</b> <br>
+<b>[Impact of H2/CH4 blends on the flexibility of micromix burners applied to industrial combustion systems](http://GontzalLopez.github.io/publications/impact)</b> <br>
 <i><b>Lopez-Ruiz G.</b></i>, Alava I., Blanco J.M.<br>
 <i>Energy journal, elsevier</i>.
 <br>
