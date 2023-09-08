@@ -9,10 +9,9 @@ Published research studies
 <br>
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
-<br>
 <b>[Impact of H2/CH4 blends on the flexibility of micromix burners applied to industrial combustion systems](http://GontzalLopez.github.io/publications/Energies1)</b> <br>
 <i><b>Lopez-Ruiz G.</b></i>, Alava I., Blanco J.M.<br>
-<i>Energy</i>.
+<i>Energy journal, elsevier</i>.
 <br>
 <br>
 <b>[Thermodynamic Analysis of a Regenerative Brayton Cycle Using H2, CH4 and H2/CH4 Blends as Fuel](http://GontzalLopez.github.io/publications/Energies1)</b> <br>
