@@ -9,6 +9,11 @@ Published research studies
 <br>
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
+<b>[Environmentally Sustainable Green Roof Design for Energy Demand Reduction](http://GontzalLopez.github.io/publications/greenRoof)</b> <br>
+<i><b> Zaloa Azkorra-Larrinaga </b></i>,Naiara Romero-Antón </b></i>, Koldobika Martin-Escudero </b></i>, Gontzal Lopez-Ruiz <br>
+<i>Buildings journal, MDPI</i>.
+<br>
+<br>
 <b>[Impact of H2/CH4 blends on the flexibility of micromix burners applied to industrial combustion systems](http://GontzalLopez.github.io/publications/impact)</b> <br>
 <i><b>Lopez-Ruiz G.</b></i>, Alava I., Blanco J.M.<br>
 <i>Energy journal, elsevier</i>.
