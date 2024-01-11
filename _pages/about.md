@@ -12,12 +12,13 @@ I obtained my PhD degree in Engineering Physics at the University of the Basque 
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
+  <img src="https://media2.giphy.com/media/3ohhwg2HbhMWrVXQXe/200w.gif?cid=82a1493b5kv3bcdxf2j4znt9f608kugroyyw185w033m5c4b&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Alt Text" width="200"/>
+  <img src="https://media2.giphy.com/media/3ohhwg2HbhMWrVXQXe/200w.gif?cid=82a1493b5kv3bcdxf2j4znt9f608kugroyyw185w033m5c4b&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Alt Text" width="200"/>
+    <img src="https://media2.giphy.com/media/3ohhwg2HbhMWrVXQXe/200w.gif?cid=82a1493b5kv3bcdxf2j4znt9f608kugroyyw185w033m5c4b&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Alt Text" width="200"/>
+      <img src="https://media2.giphy.com/media/3ohhwg2HbhMWrVXQXe/200w.gif?cid=82a1493b5kv3bcdxf2j4znt9f608kugroyyw185w033m5c4b&ep=v1_gifs_related&rid=200w.gif&ct=g" alt="Alt Text" width="200"/>
   <!-- Add more images as needed -->
 </p>
+
 
 
 
