@@ -9,6 +9,11 @@ Published research studies
 <br>
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
+<b>[CFD study of flameless combustion in a real industrial reheating furnace considering different H2/NG blends as fuel](http://GontzalLopez.github.io/publications/flameless)</b> <br>
+<i><b>Lopez-Ruiz G.</b></i>, Blanco J.M., Peña A., Romero-Anton N., Azkorra-Larrinaga Z.<br>
+<i>International Journal of Hydrogen Energy, elsevier</i>.
+<br>
+<br>
 <b>[Environmentally Sustainable Green Roof Design for Energy Demand Reduction](http://GontzalLopez.github.io/publications/greenRoof)</b> <br>
 <i><b>Azkorra-Larrinaga Z.</b></i>, Romero-Anton N., Martin-Escudero K., Lopez-Ruiz G.
 <i>Buildings journal, MDPI</i>.
