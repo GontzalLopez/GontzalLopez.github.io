@@ -12,10 +12,10 @@ I obtained my PhD degree in Engineering Physics at the University of the Basque 
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
-  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="200"/>
   <!-- Add more images as needed -->
 </p>
 
