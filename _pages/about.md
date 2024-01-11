@@ -13,7 +13,7 @@ I obtained my PhD degree in Engineering Physics at the University of the Basque 
 
 <p align="center">
   <img src="https://i.gifer.com/GlIU.gif" alt="Alt Text" width="200"/>
-  <img src="https://i.gifer.com/GlIU.gif" alt="Alt Text" width="200"/>
+  <img src="https://enteknograte.com/wp-content/uploads/2022/06/cradle-cfd-dynamic-mesh-valve-siemens-star-ccm-ansys-fluent-abaqus-ls-dyna-CFD-Simulation-Reacting-Flows-Combustion-Engine-Gas-Turbine.gif" alt="Alt Text" width="200"/>
   <img src="https://i.gifer.com/GlIU.gif" alt="Alt Text" width="200"/>
   <!-- Add more images as needed -->
 </p>
