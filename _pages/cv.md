@@ -51,11 +51,13 @@ Congresses, courses and workshops
 * Course on c/c++ programming (100h. CIPSA, professional school of computer science) 2020
 * Unsteady Simulations for Industrial Flows: LES, DES, hybrid LES/RANS and URANS (Chalmers University of Technology) 2020
 * 3rd Spanish HPC Combustion Workshop (Barcelona Supercomputing Center) 2021
+* CoEC-ERCOFTAC course: Understanding and Predicting Hydrogen Combustion (Barcelona Supercomputing Center) 2023
 
 Research projects
 ======
 * Mathematical Modelling Advisory Service BEAZ 2022
-* Elkartek ERABILH2 2021 
+* Elkartek ERABILH2 2021
+* Elkartek ERABIL+  2023/2024 
 
 Publications
 ======
