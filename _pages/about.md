@@ -12,9 +12,10 @@ I obtained my PhD degree in Engineering Physics at the University of the Basque 
 </p>
 
 <p align="center">
-  <img src="https://simutechgroup.com/wp-content/uploads/2022/12/Ansys-Fluent-Hydrogen-Combustion-Animation.gif" alt="Alt Text" width="300"/>
-  <img src="https://enteknograte.com/wp-content/uploads/2022/06/cradle-cfd-dynamic-mesh-valve-siemens-star-ccm-ansys-fluent-abaqus-ls-dyna-CFD-Simulation-Reacting-Flows-Combustion-Engine-Gas-Turbine.gif" alt="Alt Text" width="300"/>
-  <img src="https://vbt.ebi.kit.edu/img/8_KIT_UCut_compressed.gif" alt="Alt Text" width="300"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
+  <img src="https://media1.giphy.com/media/lTkOQ1aacqClLCcBZq/giphy.gif" alt="Alt Text" width="300"/>
   <!-- Add more images as needed -->
 </p>
 
