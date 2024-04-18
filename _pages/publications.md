@@ -9,6 +9,11 @@ Published research studies
 <br>
 For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
 <br>
+<b>[An assessment of the operating conditions of the micromix combustion principle for low NOx industrial hydrogen burners: Numerical and experimental approach](http://GontzalLopez.github.io/publications/Energy_micromix2)</b> <br>
+<i><b>Barreiro P.</b></i>, Alava, I., Blanco J.M., Peña A., Lopez-Ruiz G.<br>
+<i>Energy journal, elsevier</i>.
+<br>
+<br>
 <b>[CFD study of flameless combustion in a real industrial reheating furnace considering different H2/NG blends as fuel](http://GontzalLopez.github.io/publications/flameless)</b> <br>
 <i><b>Lopez-Ruiz G.</b></i>, Blanco J.M., Peña A., Romero-Anton N., Azkorra-Larrinaga Z.<br>
 <i>International Journal of Hydrogen Energy, elsevier</i>.
