@@ -7,8 +7,11 @@ author_profile: true
 Published research studies
 ======
 <br>
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=TLAWpogAAAAJ&hl=es)<br>
+For proper citations, refer [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=57209364751)<br>
 <br>
+ORCID profile: [Orcid Gontzal Lopez-Ruiz](https://orcid.org/0000-0002-9721-8457)
+<br>
+======
 <b>[An assessment of the operating conditions of the micromix combustion principle for low NOx industrial hydrogen burners: Numerical and experimental approach](http://GontzalLopez.github.io/publications/Energy_micromix2)</b> <br>
 <i><b>Barreiro P.</b></i>, Alava, I., Blanco J.M., Peña A., Lopez-Ruiz G.<br>
 <i>Energy journal, elsevier</i>.
