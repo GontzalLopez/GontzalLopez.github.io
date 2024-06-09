@@ -19,7 +19,9 @@ Course on OpenFOAM. Numerical Wave Tanks - Day 1 Material (June 2024 Bilbao Scho
 - Tutorial on a floating object, creating the mesh with snappyHexMesh and introducing concepts of dynamic mesh with overset method.
 [Download material folder](https://ehubox.ehu.eus/s/HM9jigPH9Yag38Z)
 
-<img src="https://ehubox.ehu.eus/apps/files/?dir=/curso_OpenFOAM_EIB_2024&openfile=214485537" alt="" width="200" height="200">
+<div style="text-align:center;">
+<img src="https://ehubox.ehu.eus/s/Ldw9ZxzDR8eS7wD" alt="" width="250" height="250">
+</div>
 
 Lid Driven Cavity - FVM Code in c++
 ======
