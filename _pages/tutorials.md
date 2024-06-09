@@ -16,7 +16,7 @@ Course on OpenFOAM. Numerical Wave Tanks - Day 1 Material (June 2024 Bilbao Scho
 
 - Quick installation guide for OpenFOAM on Linux and Windows using WSL.
 - Brief introduction to the OpenFOAM code and context, including the philosophy and general structure of the code.
-- Tutorial on a floating object, creating the mesh with snappyHexMesh and introducing concepts of dynamic meshing.
-[Download material](https://openfoam.org/download/)
+- Tutorial on a floating object, creating the mesh with snappyHexMesh and introducing concepts of dynamic mesh with overset method.
+[Download material folder](https://ehubox.ehu.eus/s/HM9jigPH9Yag38Z)
 
  
