@@ -21,7 +21,7 @@ Course on OpenFOAM. Numerical Wave Tanks - Day 1 Material (June 2024 Bilbao Scho
 
 
 <p align="center">
-  <img src="https://ehubox.ehu.eus/s/Ldw9ZxzDR8eS7wD/preview" alt="Alt Text" width="200"/>
+  <img src="https://ehubox.ehu.eus/s/Ldw9ZxzDR8eS7wD" alt="Alt Text" width="250"/>
 </p>
 
 
