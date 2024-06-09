@@ -9,13 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Industrial Technology Engineering, University of the Basque Country 2016 
-* M.S. in Industrial Engineering, Energy Engineering Branch, University of the Basque Country 2018
-* Ph.D in Engineering Physics, University of the Basque Country, 2021
-
 Course on OpenFOAM. Numerical Wave Tanks - Day 1 Material (June 2024 Bilbao School of Engineering)
+======
 
 ## Includes:
 
