@@ -20,7 +20,7 @@ Course on OpenFOAM. Numerical Wave Tanks - Day 1 Material (June 2024 Bilbao Scho
 [Download material folder](https://ehubox.ehu.eus/s/HM9jigPH9Yag38Z)
 
 <div style="text-align:center;">
-<img src="https://ehubox.ehu.eus/s/Ldw9ZxzDR8eS7wD" alt="" width="250" height="250">
+<img src="images/animation_case.gif" alt="" width="250" height="250">
 </div>
 
 Lid Driven Cavity - FVM Code in c++
