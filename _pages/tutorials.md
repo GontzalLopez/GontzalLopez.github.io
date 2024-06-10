@@ -18,7 +18,7 @@ Course on OpenFOAM. Numerical Wave Tanks - Day 1 Material (June 2024 Bilbao Scho
 - Brief introduction to the OpenFOAM code and context, including the philosophy and general structure of the code.
 - Tutorial on a floating object, creating the mesh with snappyHexMesh and introducing concepts of dynamic mesh with overset method.
 [Download material folder](https://ehubox.ehu.eus/s/HM9jigPH9Yag38Z)
-- Day 2. [Download material folder - Josh Davidson](https://drive.google.com/drive/folders/1SUuX51cGCVMr7YeZgqwROE6AlGNVg79V?usp=sharing)
+- Day 2: [Download material folder - Josh Davidson](https://drive.google.com/drive/folders/1SUuX51cGCVMr7YeZgqwROE6AlGNVg79V?usp=sharing)
 
 <p align="center">
   <img src='/images/animation_case.gif' alt="Alt Text" width="300"/>
