@@ -7,17 +7,30 @@ tags:
   - category1
   - category2
 ---
-
+<p align="justify">
 Verano es esa época del año en la que cambiamos las aulas y despachos por la playa (o al menos lo intentamos), y los papers por lecturas que no empiecen con “Abstract”. Es un buen momento para dejar de lado artículos o libros técnicos y abrir espacio a reflexiones más amplias: no solo por qué hacemos lo que hacemos, sino también qué implicaciones tiene, si lo estamos haciendo bien, y cómo se inserta todo esto en un contexto histórico, social y filosófico más amplio.
+</p>
 
+<p align="justify">
 Todas las personas que trabajamos en el ámbito de la ciencia y la investigación deberíamos contar con una formación básica en los aspectos epistemológicos y ontológicos de nuestro trabajo. En otras palabras, es fundamental tener al menos una formación básica en Filosofía de la Ciencia. Lamentablemente, esto no siempre ocurre... Quienes desarrollamos nuestra labor en cualquier rama de la Ciencia rara vez nos paramos a reflexionar sobre estas cuestiones. En su lugar, nos vemos inmersos en una dinámica centrada en encadenar proyectos, asegurar financiación y publicar árticulos, impulsados más por la presión de cumplir con indicadores establecidos que por una reflexión sobre el sentido de nuestro trabajo. Esto se debe principalmente a un sistema que impone la lógica del publish or perish, donde la productividad se mide en función del número de artículos, proyectos financiados e indicadores cuantificables.
+</p>
 
-En este sentido, me parece interesante compartir algunas de las reflexiones que plantea Javier Peteiro Cartelle en su libro El autoritarismo científico:
+<p align="justify">
+En este sentido, me parece interesante compartir algunas de las reflexiones que plantea Javier Peteiro Cartelle en su libro *El autoritarismo científico*:
+</p>
 
+<p align="justify">
 “...Probablemente el rechazo cientificista del valor de lo azaroso y la creatividad y necesidades inconscientes, en el marco de un reduccionismo centrado en la pregunta a resolver aquí y ahora, orientado a lo inmediato, sea la actitud más anticientífica posible desde el punto de vista metodológico...” 
+</p>
 
+<p align="justify">
 “...Para obtener buena Ciencia no basta con hacer, desde la planificación política, grandes centros de investigación y poner mucha gente preparada a investigar para obtener un objetivo concreto. Sin embargo eso es lo que habitualmente se persigue: investigación masiva e incremental desde la perspectiva cientificista basada en el enfoque ingenuo de que la Ciencia es algo perfectamente planificable, tratando de hacer rigurosamente científico el propio proceso de creación de la Ciencia, olvidando la necesidad que ese proceso tiene de todo lo propiamente humano, incluyendo de forma muy especial lo que al ser humano le es incosciente: la arrogancia de su fe racionalista le hace olvidar no sólo que la Ciencia nunca alcanzará la omnisciencia, sino que quien la hace, es un ser que en general actúa por motivos que le son incoscientes hasta tal punto que lo que parece contingencia puede ser en muchos casos simplemente el resultado de una búsqueda inconsciente...”
+</p>
 
+<p align="justify">
 “...En su afán por reconocer la a la Ciencia como única referencia, el cientificismo se muestra también crudamente en la forma pretendidamente científica con que se planifica la investigación. Los fondos han de ser adecuadamente administrados y para ello los oportunos comités de expertos analizan proyectos que deben encuadrarse en un plan estratégico con objetivos claramente definidos a corto plazo y enmarcados en un protocolo perfectamente presentado, pero precisamente esa visión centrada en problemas concretos y en escalas de tiempo dadas va en contra de cómo se ha hecho la gran Ciencia, pues al negar la contingencia se cierran muchas posibilidades a la imaginación y a la curiosidad de tal modo que las memorias presentadas para solicitar fondos vienen a ser anticipos de publicaciones próximas con resultados esperados, por lo que el artículo final no es sino la memoria inicial completada con resultados y una discusión esperada de los mismos...” 
+</p>
 
+<p align="justify">
 Tal vez este verano, además de descansar, podamos también abrir un pequeño espacio para preguntarnos no solo qué investigamos, sino desde dónde y para qué. 
+</p>
