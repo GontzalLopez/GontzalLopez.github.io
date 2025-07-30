@@ -16,7 +16,7 @@ Todas las personas que trabajamos en el ámbito de la ciencia y la investigació
 </p>
 
 <p align="justify">
-En este sentido, me parece interesante compartir algunas de las reflexiones que plantea Javier Peteiro Cartelle en su libro *El autoritarismo científico*:
+En este sentido, me parece interesante compartir algunas de las reflexiones que plantea Javier Peteiro Cartelle en su libro "El autoritarismo científico":
 </p>
 
 <p align="justify">
