@@ -53,14 +53,14 @@ Congresses, courses and workshops
 * Unsteady Simulations for Industrial Flows: LES, DES, hybrid LES/RANS and URANS (Chalmers University of Technology) 2020
 * 3rd Spanish HPC Combustion Workshop (Barcelona Supercomputing Center) 2021
 * CoEC-ERCOFTAC course: Understanding and Predicting Hydrogen Combustion (Barcelona Supercomputing Center) 2023
-* International Conference on Numerical Combustion (Rome, Italy) 2025
+* ICNC - International Conference on Numerical Combustion (Rome, Italy) 2025
 
 Research projects
 ======
 * 2022 - Mathematical Modelling Advisory Service BEAZ (Provincial Council of Biscay) 
-* 2023/2024 - Advanced Solutions for the Use and Deployment of H₂ in End-Use Applications: Mobility and Industrial Use - Elkartek ERABIL+ (Basque Government) 
+* 2023/2024 - Advanced Solutions for the Use and Deployment of H₂ in End-Use Applications: Mobility and Industrial Use (Basque Government) 
 * 2022/2025 - Development and Optimization of Renewable Energy-Based Generation Facilities in the Marine Environment (Basque Government)
-* 2025/2026 - H2 for cleaner maritime transportation: CFD Modeling research of dual fuel hydrogen marine engines (Univeristy of the Basque Country) 
+* 2025/2026 - H2 for cleaner maritime transportation: CFD Modeling research of dual fuel hydrogen marine engines (University of the Basque Country) 
 
 Publications
 ======
